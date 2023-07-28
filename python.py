@@ -1,7 +1,6 @@
-import sys
-from math import cos, radians
+# Indentation
+n = 5
+m = 10
 
-print("Hello python")
-
-for i in range(360):
-    print(cos(radians(i)))
+if m > n:
+    print("m est plus grand que n")
