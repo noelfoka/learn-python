@@ -5,3 +5,13 @@ y = "Joel FOKA"
 
 print(x)
 print(y)
+
+# Global variable
+x = "awesome"
+
+
+def myfunc():
+    print("Python is " + x)
+
+
+myfunc()
