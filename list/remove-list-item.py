@@ -10,6 +10,5 @@ myList.pop(1)
 print(myList)
 
 # Remove the last item
-
 myList.pop()
 print(myList)
