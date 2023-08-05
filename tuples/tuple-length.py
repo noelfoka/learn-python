@@ -1,3 +1,4 @@
+# Print the number of items in the tuple
 mytuple = (
     "apple",
     "banana",
